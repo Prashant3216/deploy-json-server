@@ -1,6 +1,31 @@
 {
     "library":[],
-    "user":[],
+    "user":[
+        {
+            "username": "Ramesh34",
+            "avatar": "https://i.pravatar.cc/300",
+            "fullName": "Ramesh verma",
+            "email": "Ramesh34@gmail.com",
+            "password": "12345",
+            "id": 1
+          },
+          {
+            "username": "pv3216",
+            "avatar": "https://i.pravatar.cc/300",
+            "fullName": "Prashant verma",
+            "email": "pv3216@gmail.com",
+            "password": "12345",
+            "id": 2
+          },
+          {
+            "username": "Shayam3216",
+            "avatar": "https://i.pravatar.cc/300",
+            "fullName": "Shayam verma",
+            "email": "Shayam3216@gmail.com",
+            "password": "12345",
+            "id": 3
+          }
+    ],
     "posts":[]
 }
 
